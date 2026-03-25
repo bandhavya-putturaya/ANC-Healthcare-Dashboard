@@ -16,4 +16,8 @@ A considerable number of High-Risk Pregnancy (HRP) cases (both antepartum and in
 3. ❤️ Maternal Health Conditions : 
 Gestational Diabetes Mellitus (GDM) cases (1099) are relatively high
 4. 🩸 Anaemia & Hb Monitoring : 
-Presence of severe anaemia (Hb < 7 g/dl) cases indicates:
+Presence of severe anaemia (Hb < 7 g/dl) cases. However, high Hb testing coverage (10,473 with ≥4 tests) reflects good compliance with maternal health protocols.
+5. 📍 Regional Inequality Insight : Geographical disparities in healthcare access and quality, Need for Taluk-specific policy interventions.
+
+# Dashboard Preview 
+()
