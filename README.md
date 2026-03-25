@@ -8,3 +8,12 @@ I conducted a detailed analysis on the Annual Antenatal Care (ANC) service deliv
 ## 🛠 Tools Used
 Microsoft Excel (Dashboard, Pivot Tables, Charts)
 Data Cleaning and Transformation
+
+## 📊 Key Insights
+1. High ANC registration (13,120) indicates strong utilization of maternal healthcare services across Udupi district.
+2. ⚠️ High-Risk Pregnancy Burden
+A considerable number of High-Risk Pregnancy (HRP) cases (both antepartum and intrapartum) : Antepartum HRP cases are significantly higher than intrapartum, indicating early identification but also a need for better risk management before delivery.
+3.❤️ Maternal Health Conditions
+Gestational Diabetes Mellitus (GDM) cases (1099) are relatively high
+4.🩸 Anaemia & Hb Monitoring
+Presence of severe anaemia (Hb < 7 g/dl) cases indicates:
