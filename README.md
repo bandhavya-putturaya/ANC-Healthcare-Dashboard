@@ -20,4 +20,4 @@ Presence of severe anaemia (Hb < 7 g/dl) cases. However, high Hb testing coverag
 5. 📍 Regional Inequality Insight : Geographical disparities in healthcare access and quality, Need for Taluk-specific policy interventions.
 
 # Dashboard Preview 
-[Dashboard_Preview].(https://github.com/bandhavya-putturaya/ANC-Healthcare-Dashboard/blob/main/ANC_Dashboard_Preview.png)
+![Dashboard_Preview].(https://github.com/bandhavya-putturaya/ANC-Healthcare-Dashboard/blob/main/ANC_Dashboard_Preview.png)
